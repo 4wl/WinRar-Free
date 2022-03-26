@@ -1,4 +1,4 @@
-# How To Install It.
+# How To Install It
 ## Step 1: Create a file called rarreg.key
 ## Step 2: Paste into the file the raw content of this repo
 ## Step 3: Go to Winrar install directory (by default => C:\Program Files\WinRAR )
